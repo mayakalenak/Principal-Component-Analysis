@@ -14,4 +14,4 @@ Principal component analysis (PCA) reduces the amount of information needed to s
 # Execute
 
 - Download and run .zip file or View jupyter notebooks in Github
-- For best results, run or view notebooks in order: 
+- For best results, run or view notebooks in order: data_transformation.ipnyb, pca.ipnyb, pca_analysis.ipnyb, eigenletters.ipnyb
